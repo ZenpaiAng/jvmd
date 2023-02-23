@@ -1,1 +1,36 @@
-{}
+{
+    "Java 8": {
+        "arches": {
+            "win32": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java8-win32.zip",
+            "win64": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java8-win64.zip"
+        }
+    },
+
+    "Java 11": {
+        "arches": {
+            "win32": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java11-win32.zip",
+            "win64": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java11-win64.zip"
+        }
+    },
+
+    "Java 17": {
+        "arches": {
+            "win32": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java17-win32.zip",
+            "win64": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java17-win64.zip"
+        }
+    },
+
+    "Java 18": {
+        "arches": {
+            "win32": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java18-win32.zip",
+            "win64": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java18-win64.zip"
+        }
+    },
+
+    "Java 19": {
+        "arches": {
+            "win32": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java19-win32.zip",
+            "win64": "https://github.com/ZenpaiAng/jvmd/raw/main/jvm/java19-win64.zip"
+        }
+    }
+}
